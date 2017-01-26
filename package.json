@@ -1,0 +1,23 @@
+{
+  "name": "mean-tutorial",
+  "version": "1.0.0",
+  "description": "a tutorial for the mean stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nansak1/meanStack.git"
+  },
+  "author": "nansak1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nansak1/meanStack/issues"
+  },
+  "homepage": "https://github.com/nansak1/meanStack#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}
